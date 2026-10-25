@@ -1,1 +1,1 @@
-print("Om Namah Shivay.... hara hara mahadev" )
+print("Om Namah Shivay...-code updated successfully"  )
