@@ -1,1 +1,1 @@
-print("Om Namah Shivay" )
+print("Om Namah Shivay.... hara hara mahadev" )
